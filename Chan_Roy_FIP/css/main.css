@@ -367,9 +367,14 @@ padding-top: 1.5em;
       
    }
 
+   .fillbanner {background-color: #a88c6f;
+      color: white;
+      padding: 4em 4em ;
+      font-size: 1.2em}
 
 
-   /* _____________________________________
+
+   /* _____________________________________-
 
    End Hero
    _____________________________________ */
@@ -436,6 +441,8 @@ padding-top: 1.5em;
    .foot-color{
       background-color: #7f6359;
    }
+
+   .content2color {color:#a88c6f;}
 
    input[type=text], select, textarea {
       width: 100%;
