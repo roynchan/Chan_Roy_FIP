@@ -1,16 +1,4 @@
-/*
-Style Name: HTML Atributes & Forms 
-Description: Class File
-Author: Roy
-Version: 1.0
-Tags: Learning HTML
-*/
 
-/*--------------------------------------------------------------
-Accessibility
---------------------------------------------------------------*/
-
-/* Text meant only for screen readers */
 .screen-reader-text {
 	clip: rect(1px, 1px, 1px, 1px);
 	position: absolute !important;
