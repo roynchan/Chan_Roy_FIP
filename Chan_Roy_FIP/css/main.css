@@ -161,7 +161,7 @@ padding-top: 1.5em;
    
    span a:hover{
       padding-bottom: .5em;
-      color: darkorange;
+      color: white;
       -webkit-transition: color 500ms linear;
          -ms-transition: color 500ms linear;
          transition: color 500ms linear;
@@ -367,6 +367,15 @@ padding-top: 1.5em;
       
    }
 
+   .coffebox {background: #594841;
+      color: white;
+      padding: 2em 2em ;
+      font-size: 1.2em;}
+      .coffebox2 {background: #a88c6f;
+         color: white;
+         padding: 2em 2em ;
+         font-size: 1.2em;}
+
    .fillbanner {background-color: #a88c6f;
       color: white;
       padding: 4em 4em ;
@@ -482,6 +491,8 @@ padding-top: 1.5em;
       
       
     }
+
+    .whitecolor {color: white;}
 
 
 }
